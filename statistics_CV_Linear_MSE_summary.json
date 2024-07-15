@@ -1,0 +1,14 @@
+{
+    "Empirical mean": 1.0559172459524973,
+    "Empirical standard deviation": 1.5632775589089174,
+    "Empirical first quartile": 0.10039355974192578,
+    "Empirical median": 0.5167335600755001,
+    "Empirical third quartile": 1.4193953301170872,
+    "Bootstrapped empirical mean": 1.0508060288574452,
+    "Empirical standard error": 0.09416517961127259,
+    "Bootstrapped empirical standard error": 0.09025587194541644,
+    "95% confidence interval for the mean": "[0.8790157369394811, 1.2328187549655134]",
+    "95% percentile bootstrap confidence interval for the mean": "[0.8910229311379901, 1.2518247377195686]",
+    "95% basic bootstrap confidence interval for the mean": "[0.8600097541854259, 1.2208115607670043]",
+    "95% accelerated bootstrap confidence interval for the mean": "[0.91890767 1.26995037]"
+}
